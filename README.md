@@ -7,3 +7,6 @@ This project consists of the following pages:
   The controller, model and view for the page are Auth(register function), Authmodel(create function) and register respectively.</br>
 3. Dashboard</br>
   The controller, model and view for the page are Welcome(logout and dashboard function), Authmodel(authorize function used to check the session data) and dashboard respectively.
+</br>
+
+The Database used is MySQL
