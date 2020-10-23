@@ -1,0 +1,15 @@
+.register label{
+    font-weight: 500;
+}
+.top-message{
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+}
+.navbar{
+    padding: 15px;
+}
+.endtag{
+    text-decoration: none;
+    color: black;
+}
